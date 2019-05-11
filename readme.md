@@ -72,8 +72,7 @@ The primary sources for English translations are the following book scans
 Gummere's translation of *Epistulae Morales*:
 
  * Volume I, Ep. 1-65: <https://archive.org/details/adluciliumepistu01sene>
- * Volume II, Ep. 66-92: <https://archive.org/details/adlucilium02sene> ,
-   <https://archive.org/details/adluciliumepistu02sene> (pp. 341-342 are missing)
+ * Volume II, Ep. 66-92: <https://archive.org/details/adluciliumepistu02sene> (pp. 341-342 are missing), <https://archive.org/details/adlucilium02sene>
  * Volume III, Ep. 93-124: <https://archive.org/details/adluciliumepistu03sene>
 
 Stewart's translations: <https://archive.org/details/minordialoguesto00seneuoft>
@@ -93,7 +92,6 @@ The many errors I corrected in the Wikisource version of *Epistulae Morales*
 (<https://en.wikisource.org/wiki/Moral_letters_to_Lucilius>) were identified
 with the help of text from
 [loebclassics.com](https://www.loebclassics.com/browse?defaultView=loebSearch&pageSize=100&sort=authorsort&t1=author.seneca.the.younger).
-Unfortunately, I did not submit my corrections to Wikisource.
 
 --------------------------------------------------
 

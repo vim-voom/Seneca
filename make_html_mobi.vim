@@ -6,9 +6,9 @@
 " The log will be saved in "make_html_mobi.log".
 
 " Pandoc executable:
-let s:PANDOC_EXE = 'C:/X3X/_progs/progs0/Pandoc/pandoc.exe'
+let s:PANDOC_EXE = 'C:/Programs/Pandoc/pandoc.exe'
 " Calibre ebook-convert executable:
-let s:CALIBRE_EXE = 'C:/X3X/_progs/progs1/CalibrePortable/Calibre/ebook-convert.exe'
+let s:CALIBRE_EXE = 'C:/Programs/CalibrePortable/Calibre/ebook-convert.exe'
 
 " Debian Linux 9 (Stretch): `sudo apt-get install pandoc calibre`
 " installs Pandoc 1.17.2 and Calibre 2.75.1. The script works, but

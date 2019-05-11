@@ -9,7 +9,7 @@ SENECA, IN TEN VOLUMES
 AD LUCILIUM EPISTULAE MORALES, IN THREE VOLUMES
 WITH AN ENGLISH TRANSLATION BY RICHARD M. GUMMERE, PH.D.
 Volume I (IV), published 1917, letters 1-65: <https://archive.org/details/adluciliumepistu01sene>
-Volume II (V), published 1920, letters 66-92: <https://archive.org/details/adlucilium02sene>
+Volume II (V), published 1920, letters 66-92: <https://archive.org/details/adluciliumepistu02sene> (pp. 341-342 are missing), <https://archive.org/details/adlucilium02sene>
 Volume III (VI), published 1925, letters 93-124: <https://archive.org/details/adluciliumepistu03sene>
 
 INTRODUCTION [Volume I, pp. vii-xii]
